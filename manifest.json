@@ -4,7 +4,7 @@
   "version": "1.0.1",
   "minAppVersion": "1.0.0",
   "description": "Unsupported files are selected on a single click and opened in the default app on a double click.",
-  "author": "Ozgur Serdar",
+  "author": "Ozgur Alem",
   "authorUrl": "https://github.com/ozthealem",
   "isDesktopOnly": true
 }

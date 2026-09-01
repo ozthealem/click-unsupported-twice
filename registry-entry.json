@@ -1,7 +1,7 @@
 {
   "id": "click-unsupported-twice",
   "name": "Click Unsupported Twice",
-  "author": "Ozgur Serdar",
+  "author": "Ozgur Alem",
   "description": "Files Obsidian can't open are selected on a single click and opened in the default app on a double click.",
   "repo": "ozthealem/click-unsupported-twice"
 }
